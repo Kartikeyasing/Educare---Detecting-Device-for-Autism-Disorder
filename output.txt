@@ -1,0 +1,7 @@
+i -> OK
+am -> OK
+trying -> OK
+to -> OK
+test -> OK
+my -> OK
+program -> OK
